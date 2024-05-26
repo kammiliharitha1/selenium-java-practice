@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Module1">
+  <test  name="Regression Tests">
+    <classes>
+      <class name="testNGLearning.VerifyTitle2"/>
+      <class name="testNGLearning.VerifyTitle"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
