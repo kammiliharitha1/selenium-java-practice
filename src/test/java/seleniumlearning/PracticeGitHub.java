@@ -8,7 +8,7 @@ public class PracticeGitHub {
 		System.out.println("understanding checkout");
 		System.out.println();
 		System.out.println("Hi");
-		System.out.println();
+		System.out.println("undertstanding checkouts");
 
 	}
 
